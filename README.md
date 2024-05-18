@@ -1,5 +1,5 @@
 Паршина Дарья
-* d.parshina28@yandex.ru
+** d.parshina28@yandex.ru
 +79779255907
 Москва
 
