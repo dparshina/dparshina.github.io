@@ -10,6 +10,7 @@ d.parshina28@yandex.ru
 - Математическая база
 
 # ОБРАЗОВАНИЕ
+
 НИУ ВШЭ | ФКН | Прикладной анализ данных | 2022-2026
 
 LSE | Data Science and Business Analytics | 2023-2026
