@@ -38,7 +38,7 @@ LSE | Data Science and Business Analytics | 2023-2026
 ## Аналитика
 
 ### 2023: Исследование на основе датасета с Kaggle про speed dating experiment
-Анализ и визуализация данных
+Анализ и визуализация данных  
 https://github.com/dparshina/dating
   
 
